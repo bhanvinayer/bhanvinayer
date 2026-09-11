@@ -1,4 +1,4 @@
-# Hey, I'm Bhanvi Nayer 👋
+## Hey, I'm Bhanvi Nayer 👋
 
 ### AI Engineer | AI Systems • GenAI • LLMs
 
@@ -19,7 +19,7 @@ Exploring **Agentic AI, RAG, LLM evaluation, and AI reliability.**
 </p>
 
 ### Stack
-`Python` `TypeScript` `C++` `SQL` `PyTorch` `LangGraph` `FastAPI` `Docker` `AWS` `Azure`
+`Python` `C++` `SQL` `PyTorch` `LangGraph` `FastAPI` `Docker` `AWS` `Azure` `TypeScript`
 
 ### Highlights
 🏆 Samsung EnnovateX '25 **Runner-up** · 🏆 **7× Hackathon Winner** · 🏅 Thales GenTech **Top 6** · 🎓 **AWS AI/ML Scholar**
