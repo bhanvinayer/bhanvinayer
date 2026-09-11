@@ -1,4 +1,4 @@
-## Hey, I'm Bhanvi Nayer 👋 | ### AI Engineer | AI Systems • GenAI • LLMs
+## Hey, I'm Bhanvi Nayer 👋 - AI Engineer | AI Systems • GenAI • LLMs
 
 Exploring **Agentic AI, ML, RAG, LLM evaluation and AI reliability along with full stack development**
 
