@@ -2,7 +2,7 @@
 
 ### AI Engineer | AI Systems • GenAI • LLMs
 
-Exploring **Agentic AI, ML, RAG, LLM evaluation and AI reliability.**
+Exploring **Agentic AI, ML, RAG, LLM evaluation and AI reliability along with full stack development**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhanvi-nayer-4551a3253/">
@@ -17,10 +17,10 @@ Exploring **Agentic AI, ML, RAG, LLM evaluation and AI reliability.**
 </p>
 
 ### Stack
-`Python` `C++` `SQL` `PyTorch` `LangGraph` `FastAPI` `Docker` `AWS` `Azure` `TypeScript`
+`Python` `C++` `SQL` `PyTorch` `LangGraph` `FastAPI` `Docker` `AWS` `Azure` `TypeScript` `Next.js` `Node.js`  
 
 ### Highlights
-🏆 Samsung EnnovateX '25 **Runner-up** · 🏆 **PSB 2nd position**· 🏆 **7× Hackathon Winner** · 🏅 Thales GenTech **Top 6** · 🎓 **AWS AI/ML Scholar** 
+🏆 Samsung EnnovateX '25 **Runner-up** · 🏆 **PSB 2nd place**· 🏆 **7× Hackathon Winner** · 🏅 Thales GenTech **Top 6** · 🎓 **AWS AI/ML Scholar** 
 
 <p align="center">
   <i>Turning ambitious ideas into AI systems that actually work.</i>
